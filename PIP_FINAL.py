@@ -4,7 +4,7 @@ from collections import deque
 clock=0
 pc = 0
 mem = []
-file_path = "Factorial.txt"
+file_path = "machinecode1.txt"
 dataMem = []
 regMem = []
 
